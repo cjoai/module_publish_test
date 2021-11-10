@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
 
-    name='print_start_lib',
+    name='Print_module',
     version='0.0.1',
     description='pip install test',
     url='https://github.com/cjoai/module_publish_test.git',
@@ -12,8 +12,6 @@ setup(
     license='BSD',
     packages='Print_module',
     zip_safe=False,
-    install_requires=[
 
-    ]
 
 )
